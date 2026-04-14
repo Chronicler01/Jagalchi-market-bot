@@ -1,0 +1,89 @@
+{
+  "captains": {
+    "414254236436529153": {
+      "name": "1팀",
+      "points": 1000,
+      "team": []
+    },
+    "496632717203472395": {
+      "name": "2팀",
+      "points": 1000,
+      "team": []
+    }
+  },
+  "items": [
+    {
+      "id": 1,
+      "name": "오붕이1",
+      "rank": 1523,
+      "comment": "ㅇ",
+      "failCount": 0,
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "name": "오붕이2",
+      "rank": 11523,
+      "comment": "ㅇ",
+      "failCount": 0,
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "name": "오붕이3",
+      "rank": 4523,
+      "comment": "ㅇ",
+      "failCount": 0,
+      "status": "pending"
+    }
+  ],
+  "auctionQueue": [
+    1,
+    3,
+    2
+  ],
+  "queueIndex": 0,
+  "round": 1,
+  "snapshot": {
+    "captains": {
+      "414254236436529153": {
+        "name": "1팀",
+        "points": 1000,
+        "team": []
+      },
+      "496632717203472395": {
+        "name": "2팀",
+        "points": 1000,
+        "team": []
+      }
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "오붕이1",
+        "rank": 1523,
+        "comment": "ㅇ",
+        "failCount": 0,
+        "status": "pending"
+      },
+      {
+        "id": 2,
+        "name": "오붕이2",
+        "rank": 11523,
+        "comment": "ㅇ",
+        "failCount": 0,
+        "status": "pending"
+      },
+      {
+        "id": 3,
+        "name": "오붕이3",
+        "rank": 4523,
+        "comment": "ㅇ",
+        "failCount": 0,
+        "status": "pending"
+      }
+    ],
+    "round": 1
+  },
+  "auctionManagerRoleId": "1490048619162767491"
+}
